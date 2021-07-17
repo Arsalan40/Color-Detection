@@ -1,0 +1,13 @@
+COLOR: A 3D array of R G B
+DATASET: A csv value of colors with hex number and RGB values
+We take the closet value from the dataset 
+
+OpenCV & Pandas
+865 colors in dataset
+
+Pandas: It is used to read the csv files
+Cv2: Callbacks function
+
+First we are reading the image
+
+DRAW function:
